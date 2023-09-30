@@ -4,16 +4,19 @@ I've joined the [100 Days of Code Challenge](https://www.100daysofcode.com/), a 
 
 ## Contents
 
-- [Log](#log)
-- [Rules](#rules)
-- [Resources](#resources)
-- [FAQ](#faq)
+- [100 Days of Code Challenge](#100-days-of-code-challenge)
+  - [Contents](#contents)
+  - [Log](#log)
+  - [Rules](#rules)
+  - [Resources](#resources)
+  - [FAQ](#faq)
 
 ## Log
 
-| Day | Date       | Progress | Link |
-|-----|------------|----------|------|
-| 0   | YYYY-MM-DD |          |      |
+| Day | Date       | Progress | Link                                           |
+|-----|------------|----------|------------------------------------------------|
+| 0   | 2023-10-30 | 100%     | [My GitHub profile](https://github.com/lsferreira42) |
+
 
 ## Rules
 
