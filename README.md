@@ -24,14 +24,13 @@ I've joined the [100 Days of Code Challenge](https://www.100daysofcode.com/), a 
 1. Code minimum an hour every day for the next 100 days.
 2. Tweet your progress every day with the #100DaysOfCode hashtag.
 3. Push code to GitHub every day so that anyone can see your progress.
-4. Update the [Log](#log) with the day's progress and provide a link to the work.
+4. Update the Log with the day's progress and provide a link to the work.
 
 ## Resources
 
 - [Official Website](https://www.100daysofcode.com/)
-- [GitHub Repository](https://github.com/user/repo)
-- [FreeCodeCamp](https://www.freecodecamp.org/)
-- [Codecademy](https://www.codecademy.com/)
+- [GitHub Repository](https://github.com/Kallaway/100-days-of-code)
+- [FreeCodeCamp](https://www.freecodecamp.org/news/join-the-100daysofcode-556ddb4579e4/)
 
 ## FAQ
 
