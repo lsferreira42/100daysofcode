@@ -1,5 +1,7 @@
 # Day 2: Developing Key-Value Store
 
+[Link to the code](https://github.com/lsferreira42/nadb)
+
 Today was dedicated to working on a simple key-value store named NADB (Not A Database) as part of a side project. Below is a summary of the work done:
 
 ## Key-Value Store Development
