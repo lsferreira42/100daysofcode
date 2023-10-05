@@ -15,8 +15,8 @@ I've joined the [100 Days of Code Challenge](https://www.100daysofcode.com/), a 
 
 | Day | Date       | Progress | Link                                           |
 |-----|------------|----------|------------------------------------------------|
-| 1   | 2023-10-30 | 100%     | [Day 1 Log](logs/day1.md)                      |
-
+| 1   | 2023-09-30 | 100%     | [Day 1 Log](logs/day1.md)                      |
+| 2   | 2023-10-05 | 100%     | [Day 2 Log](logs/day2.md)                      |
 
 
 ## Rules
